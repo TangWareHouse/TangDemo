@@ -13,4 +13,5 @@ import java.util.Map;
 @Repository
 public interface InfMapper {
     List<Map<String,Object>> search();
+    //----
 }
